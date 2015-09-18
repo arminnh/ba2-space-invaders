@@ -1,11 +1,21 @@
 # space-invaders
 Space Invaders clone using C++ and SFML.
 
-Patterns used: MVC, Observer, abstract factory
+Patterns used: 
+* MVC
+* Observer
+* Abstract factory
 
 # Install
-Requires cmake and SFML to be already installed.
+#### Requirements
+* CMake
+* SFML 2
 
-Run "cmake .." and then "make install" from the build directory.
+```
+1) cd Space Invaders
+2) mkdir build && cd buils
+3) cmake ..
+4) make install
+```
 
 The program will compile into the bin directory.
