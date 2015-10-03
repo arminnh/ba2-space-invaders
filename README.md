@@ -1,4 +1,5 @@
 # space-invaders
+Project for Advanced Programming course.
 Space Invaders clone using C++ and SFML.
 
 Patterns used: 
