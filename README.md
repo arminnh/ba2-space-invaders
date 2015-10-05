@@ -1,9 +1,24 @@
-# space-invaders
-Space Invaders clone using c++ and SFML
+# Space Invaders
+A game made as part of an Advanced Programming course at the [University of Antwerp](https://www.uantwerpen.be/popup/opleidingsonderdeel.aspx?catalognr=1001WETGPR&taal=en&aj=2014).
 
-# Install
-Requires cmake and SFML to be already installed.
+[![Demo on youtube. Check it out!](http://i.imgur.com/F0Iby3n.png)](https://www.youtube.com/watch?v=iJg3N-_RKMg "Demo on youtube. Check it out!")
 
-Run "cmake .." and then "make install" from the build directory.
+## Patterns used
+* [Model-view-controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
+* [Observer](https://en.wikipedia.org/wiki/Observer_pattern)
+* [Abstract factory](https://en.wikipedia.org/wiki/Abstract_factory_pattern)
+
+## Install
+##### Requirements
+* CMake
+* SFML 2
+
+##### Installation
+in /Space Invaders
+```
+mkdir build && cd build
+cmake ..
+make install
+```
 
 The program will compile into the bin directory.
