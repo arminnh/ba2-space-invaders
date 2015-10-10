@@ -14,7 +14,7 @@ A game made as part of an Advanced Programming course at the [University of Antw
 * SFML 2
 
 ##### Installation
-in /Space Invaders
+in Space Invaders/
 ```
 mkdir build && cd build
 cmake ..
