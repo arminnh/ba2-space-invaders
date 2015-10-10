@@ -1,5 +1,5 @@
 # Space Invaders
-A game made as part of an Advanced Programming course at the [University of Antwerp](https://www.uantwerpen.be/popup/opleidingsonderdeel.aspx?catalognr=1001WETGPR&taal=en&aj=2014).
+A game made as part of an [Advanced Programming course](https://www.uantwerpen.be/popup/opleidingsonderdeel.aspx?catalognr=1001WETGPR&taal=en&aj=2014) at the University of Antwerp.
 
 [![Demo on youtube. Check it out!](http://i.imgur.com/F0Iby3n.png)](https://www.youtube.com/watch?v=iJg3N-_RKMg "Demo on youtube. Check it out!")
 
